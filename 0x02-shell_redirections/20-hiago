@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Chiago" | tr -d 'cC'
